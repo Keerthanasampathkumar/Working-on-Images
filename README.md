@@ -51,30 +51,31 @@ cv2.imshow('Value',V)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-OUTPUT :
-IMAGE :
+## OUTPUT :
+### IMAGE :
+
 ![pic](https://github.com/Keerthanasampathkumar/Working-on-Images/assets/119477890/962fe6f3-25ef-4d96-b1ff-a3052b9eb079)
 
 
-GRAY SCALE :
+### GRAY SCALE :
 ![gray_scale](https://github.com/Keerthanasampathkumar/Working-on-Images/assets/119477890/638a766f-8bb6-490c-b29b-4154245eaefa)
 
 
-HSV :
+### HSV :
 ![my_img](https://github.com/Keerthanasampathkumar/Working-on-Images/assets/119477890/3208854a-3c52-475d-9205-20705d59b22b)
 
 
-HUE :
+### HUE :
 ![Hue](https://github.com/Keerthanasampathkumar/Working-on-Images/assets/119477890/9089f1b6-d001-4eb9-a27a-c64668270f71)
 
 
-VALUE :
+### VALUE :
 ![Value](https://github.com/Keerthanasampathkumar/Working-on-Images/assets/119477890/620ca594-b46a-4317-9375-abfc392e3cad)
 
 
-SATURATION :
+### SATURATION :
 ![Saturation](https://github.com/Keerthanasampathkumar/Working-on-Images/assets/119477890/c8ea2904-429c-49dd-9d04-99e19ed39453)
 
 
-RESULT :
+### RESULT :
 Therefore working on images has been successfully implemented.
